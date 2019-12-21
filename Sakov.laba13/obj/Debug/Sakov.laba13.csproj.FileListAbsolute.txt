@@ -1,0 +1,6 @@
+E:\worksprog\2kurs\ООП\Sakov.laba13\bin\Debug\Sakov.laba13.exe.config
+E:\worksprog\2kurs\ООП\Sakov.laba13\bin\Debug\Sakov.laba13.exe
+E:\worksprog\2kurs\ООП\Sakov.laba13\bin\Debug\Sakov.laba13.pdb
+E:\worksprog\2kurs\ООП\Sakov.laba13\obj\Debug\Sakov.laba13.csprojAssemblyReference.cache
+E:\worksprog\2kurs\ООП\Sakov.laba13\obj\Debug\Sakov.laba13.exe
+E:\worksprog\2kurs\ООП\Sakov.laba13\obj\Debug\Sakov.laba13.pdb
