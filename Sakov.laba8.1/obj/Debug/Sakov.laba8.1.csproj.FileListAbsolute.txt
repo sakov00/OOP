@@ -1,0 +1,9 @@
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\obj\Debug\Sakov.laba8.1.csprojAssemblyReference.cache
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\bin\Debug\Sakov.laba8.1.exe.config
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\bin\Debug\Sakov.laba8.1.exe
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\bin\Debug\Sakov.laba8.1.pdb
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\bin\Debug\EPPlus.dll
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\bin\Debug\EPPlus.xml
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\obj\Debug\Sakov.laba8.1.csproj.CopyComplete
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\obj\Debug\Sakov.laba8.1.exe
+E:\works prog\2 kurs\ООП\Sakov.laba8.1\obj\Debug\Sakov.laba8.1.pdb
