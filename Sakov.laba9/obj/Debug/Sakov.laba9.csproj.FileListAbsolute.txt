@@ -1,0 +1,12 @@
+E:\works prog\2 kurs\ООП\Sakov.laba9\obj\Debug\Sakov.laba9.csprojAssemblyReference.cache
+E:\works prog\2 kurs\ООП\Sakov.laba9\bin\Debug\Sakov.laba9.exe.config
+E:\works prog\2 kurs\ООП\Sakov.laba9\bin\Debug\Sakov.laba9.exe
+E:\works prog\2 kurs\ООП\Sakov.laba9\bin\Debug\Sakov.laba9.pdb
+E:\works prog\2 kurs\ООП\Sakov.laba9\obj\Debug\Sakov.laba9.exe
+E:\works prog\2 kurs\ООП\Sakov.laba9\obj\Debug\Sakov.laba9.pdb
+E:\worksprog\2kurs\ООП\Sakov.laba9\bin\Debug\Sakov.laba9.exe.config
+E:\worksprog\2kurs\ООП\Sakov.laba9\bin\Debug\Sakov.laba9.exe
+E:\worksprog\2kurs\ООП\Sakov.laba9\bin\Debug\Sakov.laba9.pdb
+E:\worksprog\2kurs\ООП\Sakov.laba9\obj\Debug\Sakov.laba9.csprojAssemblyReference.cache
+E:\worksprog\2kurs\ООП\Sakov.laba9\obj\Debug\Sakov.laba9.exe
+E:\worksprog\2kurs\ООП\Sakov.laba9\obj\Debug\Sakov.laba9.pdb
