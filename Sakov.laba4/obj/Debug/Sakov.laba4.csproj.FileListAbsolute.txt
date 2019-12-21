@@ -1,0 +1,7 @@
+D:\works prog\2 курс\ООП\Sakov.laba4\bin\Debug\Sakov.laba4.exe.config
+D:\works prog\2 курс\ООП\Sakov.laba4\bin\Debug\Sakov.laba4.exe
+D:\works prog\2 курс\ООП\Sakov.laba4\bin\Debug\Sakov.laba4.pdb
+D:\works prog\2 курс\ООП\Sakov.laba4\obj\Debug\Sakov.laba4.csprojAssemblyReference.cache
+D:\works prog\2 курс\ООП\Sakov.laba4\obj\Debug\Sakov.laba4.csproj.CoreCompileInputs.cache
+D:\works prog\2 курс\ООП\Sakov.laba4\obj\Debug\Sakov.laba4.exe
+D:\works prog\2 курс\ООП\Sakov.laba4\obj\Debug\Sakov.laba4.pdb
